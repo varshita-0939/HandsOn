@@ -1,9 +1,2 @@
-First Text File.
-<<<<<<< HEAD
-Git handson
-My name is varshita
-=======
-Git handson.
-Varshita
-Cognizant
->>>>>>> e7a7fd9b3db518a9a6583da2b674ce815306406f
+My first text file.
+Git hands-On
