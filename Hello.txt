@@ -1,4 +1,8 @@
 My first text file.
+<<<<<<< HEAD
 HandsOn
 Varshita
 
+=======
+HandsOn
+>>>>>>> 81e0224a4ea28fc436c09349960819fbfbec63a4
