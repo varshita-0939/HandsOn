@@ -1,5 +1,1 @@
 My first text file.
-Git hands-On
-Maridi Varshita
-Working as in Intern
-Work Location : Chennai
